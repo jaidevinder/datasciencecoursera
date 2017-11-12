@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is my repository for Data Science Course from Coursera
+First assignment on Creating repository
